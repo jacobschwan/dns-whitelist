@@ -2,17 +2,17 @@
 ! Title: Personal Whitelist
 !
 ! From Tony
-||api.segment.io^
-||b.stats.paypal.com^
+@@||api.segment.io^
+@@||b.stats.paypal.com^
 
 ! Kelly's Requests
-||analytics.twitter.com^
-||weeklyad.target.com^
-||contentz.mkt941.com^
-||files.constantcontact.com^
-||imgssl.constantcontact.com^
-||email.afar.com^
-||sailthru.minted.com^
-||image.s.hottopic.com^
-||email.halmark.com^
-||supporthclib.org^
+@@||analytics.twitter.com^
+@@||weeklyad.target.com^
+@@||contentz.mkt941.com^
+@@||files.constantcontact.com^
+@@||imgssl.constantcontact.com^
+@@||email.afar.com^
+@@||sailthru.minted.com^
+@@||image.s.hottopic.com^
+@@||email.halmark.com^
+@@||supporthclib.org^
