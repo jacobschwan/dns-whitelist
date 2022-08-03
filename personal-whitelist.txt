@@ -16,3 +16,6 @@
 @@||image.s.hottopic.com^
 @@||email.halmark.com^
 @@||supporthclib.org^
+
+! Jake's Requests
+@@||t.co^
